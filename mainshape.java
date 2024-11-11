@@ -1,5 +1,4 @@
  class shape {
-
     // since we dont know the area yet , we have to define it as a double area
     public double getarea(){
         System.out.println("area of the shape is still unknown");
